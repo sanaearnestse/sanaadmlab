@@ -1,0 +1,7 @@
+hi iam sana
+[A[Aquit
+shsj
+./
+gedit s.sh
+exit()
+$f
